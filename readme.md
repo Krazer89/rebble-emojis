@@ -4,6 +4,20 @@ This contains [emoji](https://en.wikipedia.org/wiki/Emoji) [bitmaps](https://en.
 
 Emoji files are in the `emojis` directory. All other files are to do with the auto-generating README file.
 
+## How to repack system emojis
+Install the python `pillow` package either through your package manager or in a venv.  
+
+Extract the four emoji font .pbf files from PebbleOS into `base/EMOJI_<size>`.  
+You can use the this command to extract them `base` directory, make sure to replace `<path_to_pebbleos_src>`.
+```
+for font in EMOJI_14 EMOJI_18 EMOJI_24 EMOJI_28; do
+  autogen/pbf_extract.py -o base/$font <path_to_pebbleos_src>/resources/normal/base/pbf/$font.pbf
+done
+```
+Run ```autogen/merge_fonts.py```, copy the .pbf files from the `merged` directory back into the PebbleOS source at resources/normal/base/pbf/  
+
+To be able to see all the emojis in PebbleOS apply [this commit](https://github.com/Krazer89/PebbleOS/commit/c2f8383ca3aa3d8f0febcecff76e51ee0f701658) to PebbleOS.
+
 ## Contributing
 
 Before contributing please consider viewing the [emoji thread](https://discord.com/channels/221364737269694464/902868168660353046) in the \#firmware channel on the [Rebble Discord server](https://rebble.io/discord).

@@ -1,3 +1,5 @@
 readme.md
 .DS_Store
 build/
+base/
+merged/
