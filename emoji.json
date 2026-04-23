@@ -191,10 +191,10 @@
   {
     "character": "\ud83e\udd24",
     "lg": {
-      "top": 5
+      "top": 8
     },
     "sm": {
-      "top": 1
+      "top": 3
     }
   },
   {
@@ -209,7 +209,7 @@
   {
     "character": "\ud83e\udd2a",
     "lg": {
-      "top": 7
+      "top": 8
     },
     "sm": {
       "top": 3
@@ -227,19 +227,19 @@
   {
     "character": "\ud83e\udd2e",
     "lg": {
-      "top": 6
+      "top": 8
     },
     "sm": {
-      "top": 1
+      "top": 3
     }
   },
   {
     "character": "\ud83e\udd70",
     "lg": {
-      "top": 6
+      "top": 7
     },
     "sm": {
-      "top": 0
+      "top": 2
     }
   },
   {
