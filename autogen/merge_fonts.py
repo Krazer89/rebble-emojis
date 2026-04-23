@@ -8,9 +8,9 @@ from PIL import Image
 
 outputs = [
   { "name": "EMOJI_14", "suffix": "sm", "size": 14, "top": 0 },
-  { "name": "EMOJI_18", "suffix": "sm", "size": 18, "top": 2 },
+  { "name": "EMOJI_18", "suffix": "sm", "size": 18, "top": 4 },
   { "name": "EMOJI_24", "suffix": "lg", "size": 24, "top": 0 },
-  { "name": "EMOJI_28", "suffix": "lg", "size": 28, "top": 2 }
+  { "name": "EMOJI_28", "suffix": "lg", "size": 28, "top": 4 }
 ]
 
 if not os.path.exists("emoji.json"):

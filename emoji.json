@@ -2,16 +2,16 @@
   {
     "character": "\ud83c\udf19",
     "lg": {
-      "top": 1
+      "top": 6
     },
     "sm": {
-      "top": 1
+      "top": 3
     }
   },
   {
     "character": "\ud83c\udf1f",
     "lg": {
-      "top": 1
+      "top": 6
     },
     "sm": {
       "top": 1
@@ -20,106 +20,106 @@
   {
     "character": "\ud83c\udf37",
     "lg": {
-      "top": 1
+      "top": 6
     },
     "sm": {
-      "top": 1
+      "top": 3
     }
   },
   {
     "character": "\ud83c\udf38",
     "lg": {
-      "top": 1
+      "top": 6
     },
     "sm": {
-      "top": 1
+      "top": 3
     }
   },
   {
     "character": "\ud83c\udf3a",
     "lg": {
-      "top": 1
+      "top": 6
     },
     "sm": {
-      "top": 1
+      "top": 3
     }
   },
   {
     "character": "\ud83c\udf40",
     "lg": {
-      "top": 1
+      "top": 7
     },
     "sm": {
-      "top": 1
+      "top": -1
     }
   },
   {
     "character": "\ud83c\udfb6",
     "lg": {
-      "top": 1
+      "top": 6
     },
     "sm": {
-      "top": 1
+      "top": 0
     }
   },
   {
     "character": "\ud83c\udff3",
     "lg": {
-      "top": 1
+      "top": 8
     },
     "sm": {
-      "top": 1
+      "top": 0
     }
   },
   {
     "character": "\ud83d\udc40",
     "lg": {
-      "top": 1
+      "top": 6
     },
     "sm": {
-      "top": 1
+      "top": 3
     }
   },
   {
     "character": "\ud83d\udc80",
     "lg": {
-      "top": 1
+      "top": 8
     },
     "sm": {
-      "top": 1
+      "top": 3
     }
   },
   {
     "character": "\ud83d\udca1",
     "lg": {
-      "top": 1
+      "top": 8
     },
     "sm": {
-      "top": 1
+      "top": 0
     }
   },
   {
     "character": "\ud83d\udca3",
     "lg": {
-      "top": 1
+      "top": 6
     },
     "sm": {
-      "top": 1
+      "top": 3
     }
   },
   {
     "character": "\ud83d\udca5",
     "lg": {
-      "top": 1
+      "top": 5
     },
     "sm": {
-      "top": 1
+      "top": -1
     }
   },
   {
     "character": "\ud83d\udcaf",
     "lg": {
-      "top": 1
+      "top": 7
     },
     "sm": {
       "top": 1
@@ -131,31 +131,31 @@
       "top": 1
     },
     "sm": {
-      "top": 1
+      "top": 6
     }
   },
   {
     "character": "\ud83d\ude43",
     "lg": {
-      "top": 1
+      "top": 8
     },
     "sm": {
-      "top": 1
+      "top": 3
     }
   },
   {
     "character": "\ud83d\ude44",
     "lg": {
-      "top": 1
+      "top": 8
     },
     "sm": {
-      "top": 1
+      "top": 3
     }
   },
   {
     "character": "\ud83e\udd17",
     "lg": {
-      "top": 1
+      "top": 8
     },
     "sm": {
       "top": 1
@@ -164,16 +164,16 @@
   {
     "character": "\ud83e\udd18",
     "lg": {
-      "top": 1
+      "top": 6
     },
     "sm": {
-      "top": 1
+      "top": -1
     }
   },
   {
     "character": "\ud83e\udd1d",
     "lg": {
-      "top": 1
+      "top": 6
     },
     "sm": {
       "top": 1
@@ -182,16 +182,16 @@
   {
     "character": "\ud83e\udd23",
     "lg": {
-      "top": 1
+      "top": 8
     },
     "sm": {
-      "top": 1
+      "top": 3
     }
   },
   {
     "character": "\ud83e\udd24",
     "lg": {
-      "top": 1
+      "top": 5
     },
     "sm": {
       "top": 1
@@ -200,25 +200,25 @@
   {
     "character": "\ud83e\udd29",
     "lg": {
-      "top": 1
+      "top": 8
     },
     "sm": {
-      "top": 1
+      "top": 3
     }
   },
   {
     "character": "\ud83e\udd2a",
     "lg": {
-      "top": 1
+      "top": 7
     },
     "sm": {
-      "top": 1
+      "top": 3
     }
   },
   {
     "character": "\ud83e\udd2c",
     "lg": {
-      "top": 1
+      "top": 8
     },
     "sm": {
       "top": 1
@@ -227,7 +227,7 @@
   {
     "character": "\ud83e\udd2e",
     "lg": {
-      "top": 1
+      "top": 6
     },
     "sm": {
       "top": 1
@@ -236,61 +236,61 @@
   {
     "character": "\ud83e\udd70",
     "lg": {
-      "top": 1
+      "top": 6
     },
     "sm": {
-      "top": 1
+      "top": 0
     }
   },
   {
     "character": "\ud83e\udd7a",
     "lg": {
-      "top": 1
+      "top": 8
     },
     "sm": {
-      "top": 1
+      "top": 3
     }
   },
   {
     "character": "\u231a",
     "lg": {
-      "top": 1
+      "top": 5
     },
     "sm": {
-      "top": 1
+      "top": -3
     }
   },
   {
     "character": "\u2620",
     "lg": {
-      "top": 1
+      "top": 5
     },
     "sm": {
-      "top": 1
+      "top": 0
     }
   },
   {
     "character": "\u26a7",
     "lg": {
-      "top": 1
+      "top": 8
     },
     "sm": {
-      "top": 1
+      "top": 3
     }
   },
   {
     "character": "\u2705",
     "lg": {
-      "top": 1
+      "top": 11
     },
     "sm": {
-      "top": 1
+      "top": 3
     }
   },
   {
     "character": "\u2728",
     "lg": {
-      "top": 1
+      "top": 8
     },
     "sm": {
       "top": 1
@@ -299,34 +299,34 @@
   {
     "character": "\u274e",
     "lg": {
-      "top": 1
+      "top": 11
     },
     "sm": {
-      "top": 1
+      "top": 3
     }
   },
   {
     "character": "\u2757",
     "lg": {
-      "top": 1
+      "top": 6
     },
     "sm": {
-      "top": 1
+      "top": -1
     }
   },
   {
     "character": "\u2763",
     "lg": {
-      "top": 1
+      "top": 7
     },
     "sm": {
-      "top": 1
+      "top": 0
     }
   },
   {
     "character": "\u2b50",
     "lg": {
-      "top": 1
+      "top": 6
     },
     "sm": {
       "top": 1
